@@ -1,16 +1,78 @@
-## Hi there 👋
+<div align="center">
+  
+  # 🚀 Emerson Andrade
+  <p><b>Estudante de Ciência da Computação | Dev Em Formação</b></p>
 
-<!--
-**emersonandrade113-beep/emersonandrade113-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    <a href="https://linkedin.com/in/seuperfil">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:seuemail@email.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
 
-Here are some ideas to get you started:
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=435&lines=2%C2%BA+Semestre+de+Ci%C3%AAncia+da+Comput%C3%A7%C3%A3o;Python+%7C+Web+%7C+SQL+%7C+UML;Em+busca+de+novos+desafios!" alt="Typing SVG" />
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre Mim
+
+> *"A tecnologia é a ferramenta, a resolução de problemas é o objetivo."*
+
+* 🎓 Cursando o *2º semestre de Ciência da Computação*.
+* 🐍 Domínio em *Python* para lógica de programação e algoritmos.
+* 🌐 Desenvolvendo projetos Web com *React, JavaScript, HTML5 e CSS3*.
+* 🤖 Experiência com *Engenharia de Prompt, APIs de LLM* e *UI/UX para IA*.
+* 🗄️ Estruturando dados com *SQL* e modelando sistemas com *Astah (UML)* e *Figma*.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| *Linguagens & Web* | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> |
+| *Banco de Dados* | <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/> |
+| *Design & Modelagem* | <a href="https://www.figma.com/make/KQumN0pYsm6XLRR9wa56kQ/Concession%C3%A1ria-Premium?p=f&t=E6RR7YSYjVXONj6p-0"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/Astah_UML-2D3748?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/> |
+| *Versionamento & Deploy* | <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/> <a href="https://fluffy-kleicha-274a65.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a> |
+
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :---: |
+| *Escape Room ARGOS-7* | Simulador textual interativo com Engenharia de Prompt, controle de estado e anti-jailbreak. | Prompt Eng., LLM, Node.js | [Ver Repositório](https://github.com/emersonandrade113-beep) |
+| *LyricAI — Gerador de Letras* | Aplicação Web para composição e refinamento de letras de música com IA. | React, JS, API / IA | [Ver Repositório](https://github.com/emersonandrade113-beep) |
+| *UX & IA Interface* | Protótipo e interface web focada na experiência do usuário para aplicações com IA. | HTML5, CSS3, UI/UX | [Ver Repositório](https://github.com/emersonandrade113-beep) |
+| *Jogo da Velha Invencível* | Jogo interativo com tomada de decisão/IA (Algoritmo Minimax) imbatível. | JavaScript, HTML, CSS | [Ver Repositório](https://github.com/emersonandrade113-beep) |
+| *Aplicação Web (Netlify)* | Projeto Web interativo hospedado e com deploy contínuo no Netlify. | HTML, CSS, JS | [Acessar Site](https://fluffy-kleicha-274a65.netlify.app/) |
+| *Concessionária Premium* | Prototipação e design de interface (UI/UX) no Figma. | Figma | [Ver Protótipo](https://www.figma.com/make/KQumN0pYsm6XLRR9wa56kQ/Concession%C3%A1ria-Premium?p=f&t=E6RR7YSYjVXONj6p-0) |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emersonandrade113-beep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonandrade113-beep&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emersonandrade113-beep&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Criado com 💙 por Emerson Andrade</sub>
+</div>
