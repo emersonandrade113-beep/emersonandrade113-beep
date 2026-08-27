@@ -49,7 +49,7 @@
 
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| *Escape Room ARGOS-7* | Simulador textual interativo com Engenharia de Prompt, controle de estado e anti-jailbreak. | Prompt Eng., LLM, Node.js | [Ver Repositório](https://github.com/emersonandrade113-beep) |
+| *Escape Room ARGOS-7* | Simulador textual interativo com Engenharia de Prompt, controle de estado e anti-jailbreak. | Prompt Eng., LLM, Node.js | [Ver Repositório](https://github.com/emersonandrade113-beep/escape-room-argos7) |
 | *LyricAI — Gerador de Letras* | Aplicação Web para composição e refinamento de letras de música com IA. | React, JS, API / IA | [Ver Repositório](https://github.com/emersonandrade113-beep) |
 | *UX & IA Interface* | Protótipo e interface web focada na experiência do usuário para aplicações com IA. | HTML5, CSS3, UI/UX | [Ver Repositório](https://github.com/emersonandrade113-beep) |
 | *Jogo da Velha Invencível* | Jogo interativo com tomada de decisão/IA (Algoritmo Minimax) imbatível. | JavaScript, HTML, CSS | [Ver Repositório](https://github.com/emersonandrade113-beep) |
