@@ -53,7 +53,7 @@
 | *Jogo da Velha Invencível* | Uma IA imbatível com o Protocolo Minimax ativado. Suas jogadas são previstas antes de serem feitas. | JavaScript, HTML5, CSS3 | [Ver Repositório](https://github.com/emersonandrade113-beep/Jogo-da-Velha-Invenc-vel/tree/main) |
 | *LyricAI — Gerador de Letras* | Assistente de composição musical interativo que gera e refina letras completas por seções. | React, JS, Claude API | [Ver Repositório](https://github.com/emersonandrade113-beep/LyricAI-Gerador-de-Letras/tree/main) |
 | *Modelagem de Processo Clínico* | Mapeamento e arquitetura de processos de atendimento e coleta laboratorial em raias de responsabilidade. | BPMN, Miro, UML | [Ver Diagrama](https://miro.com/app/board/uXjVGsra4kY=/?focusWidget=3458764664988380921) |
-| *Landing Page de Saúde Mental* | Interface moderna e responsiva focada em UI/UX com layout acolhedor e navegação intuitiva. | HTML5, CSS3, UI/UX | [Ver Repositório](https://github.com/emersonandrade113-beep/Landing-Page-de-um-App-de-Sa-de-Mental/tree/main) |
+| *Landing Page de Saúde Mental* | Interface moderna e responsiva focada em UI/UX com layout acolhedor e navegação intuitiva. | HTML5, CSS3, UI/UX | [Ver Repositório](https://github.com/emersonandrade113-beep/Landing-Page-de-um-App-de-Sa-de-Mental/tree/main) \| [Ver Deploy](https://fluffy-kleicha-274a65.netlify.app/) |
 | *Concessionária Premium* | Prototipação e design de interface (UI/UX) no Figma. | Figma | [Ver Protótipo](https://www.figma.com/make/KQumN0pYsm6XLRR9wa56kQ/Concession%C3%A1ria-Premium?p=f&t=E6RR7YSYjVXONj6p-0) |
 
 ---
