@@ -4,7 +4,7 @@
   <p><b>Estudante de Ciência da Computação | Dev Em Formação</b></p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/seuperfil">
+    <a href="https://www.linkedin.com/in/emerson-andrade-125840431/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:seuemail@email.com">
