@@ -50,9 +50,9 @@
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :---: |
 | *Escape Room ARGOS-7* | Simulador textual interativo com Engenharia de Prompt, controle de estado e anti-jailbreak. | Prompt Eng., LLM, Node.js | [Ver Repositório](https://github.com/emersonandrade113-beep/escape-room-argos7) |
+| *Jogo da Velha Invencível* | Uma IA imbatível com o Protocolo Minimax ativado. Suas jogadas são previstas antes de serem feitas. | JavaScript, HTML5, CSS3 | [Ver Repositório](https://github.com/emersonandrade113-beep/Jogo-da-Velha-Invenc-vel/tree/main) |
 | *LyricAI — Gerador de Letras* | Aplicação Web para composição e refinamento de letras de música com IA. | React, JS, API / IA | [Ver Repositório](https://github.com/emersonandrade113-beep) |
 | *UX & IA Interface* | Protótipo e interface web focada na experiência do usuário para aplicações com IA. | HTML5, CSS3, UI/UX | [Ver Repositório](https://github.com/emersonandrade113-beep) |
-| *Jogo da Velha Invencível* | Jogo interativo com tomada de decisão/IA (Algoritmo Minimax) imbatível. | JavaScript, HTML, CSS | [Ver Repositório](https://github.com/emersonandrade113-beep) |
 | *Aplicação Web (Netlify)* | Projeto Web interativo hospedado e com deploy contínuo no Netlify. | HTML, CSS, JS | [Acessar Site](https://fluffy-kleicha-274a65.netlify.app/) |
 | *Concessionária Premium* | Prototipação e design de interface (UI/UX) no Figma. | Figma | [Ver Protótipo](https://www.figma.com/make/KQumN0pYsm6XLRR9wa56kQ/Concession%C3%A1ria-Premium?p=f&t=E6RR7YSYjVXONj6p-0) |
 
