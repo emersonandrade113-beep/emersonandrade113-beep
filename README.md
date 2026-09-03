@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=778DA9&center=true&vCenter=true&width=520&lines=Python+%C2%B7+React+%C2%B7+SQL+%C2%B7+UML;Engenharia+de+Prompt+%26+APIs+de+LLM;UI%2FUX+Design+%C2%B7+Figma+%C2%B7+Acessibilidade" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=778DA9&center=true&vCenter=true&width=520&lines=Python+%C2%B7+React+%C2%B7+SQL+%C2%B7+UML;Engenharia+de+Prompt+%26+APIs+de+LLM;UI%2FUX+Design+%C2%B7+Acessibilidade+Web+(WCAG)" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,19 +19,19 @@
 
 ## Sobre mim
 
-Estudante do **2º semestre de Ciência da Computação**, focado no desenvolvimento de soluções de software e na aplicação prática de lógica de programação, estruturas de dados, modelagem de sistemas e UI/UX design.
+Estudante do **2º semestre de Ciência da Computação**, focado no desenvolvimento de soluções de software e na aplicação prática de lógica de programação, estruturas de dados, modelagem de sistemas e UI/UX design centrado no usuário.
 
-Tenho me dedicado ao desenvolvimento web com **React**, **JavaScript**, **HTML5** e **CSS3**, à resolução de problemas e criação de scripts em **Python**, e à modelagem e estruturação de dados com **SQL**. Além disso, domino técnicas de **Engenharia de Prompt** (Zero-shot, Few-shot, Role Prompting, delimitadores) e integração com **APIs de LLM**, unindo raciocínio lógico a interfaces otimizadas para Inteligência Artificial.
+Tenho me dedicado ao desenvolvimento web com **React**, **JavaScript**, **HTML5** e **CSS3**, à resolução de problemas e criação de scripts em **Python**, e à modelagem de dados com **SQL**. Além disso, pesquiso e aplico técnicas avançadas de **Engenharia de Prompt** (*Zero-shot, Few-shot, Role Prompting, delimitadores*) e integração com **APIs de LLM**, conectando raciocínio lógico a interfaces eficientes para Inteligência Artificial.
 
-Na modelagem de sistemas e arquitetura de interfaces, utilizo **Astah (UML)**, **BPMN**, **Miro** e **Figma** para prototipar wireframes, desenhar fluxos de navegação e transformar requisitos complexos em projetos acessíveis e bem estruturados.
+Na área de design e arquitetura, realizo pesquisas de **Acessibilidade Web (WCAG)** para perfis diversos e utilizo **Astah (UML)**, **BPMN**, **Miro** e **Figma** para desenhar wireframes e modelar processos.
 
 <br/>
 
 | | |
 |---|---|
 | 🎓 **Formação** | Ciência da Computação — 2º semestre |
-| 💼 **Foco atual** | Desenvolvimento Web, Engenharia de Prompt, UI/UX e Python |
-| 🌟 **Diferenciais** | Proatividade, Autonomia, Adaptabilidade, Atenção aos detalhes e Curiosidade |
+| 💼 **Foco atual** | Desenvolvimento Web, Engenharia de Prompt, UI/UX e Acessibilidade |
+| 🌟 **Diferenciais** | Pesquisa aplicada em IA, Proatividade, Adaptabilidade e Foco em Acessibilidade |
 | 🌎 **Localização** | Brasil |
 | 📫 **Contato** | emerson.andrade113@gmail.com |
 
@@ -58,11 +58,11 @@ Na modelagem de sistemas e arquitetura de interfaces, utilizo **Astah (UML)**, *
 ![Gemini API](https://img.shields.io/badge/Gemini_API-3A506B?style=flat-square&logo=google&logoColor=4285F4)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-3A506B?style=flat-square&logo=openai&logoColor=74AA9C)
 
-**Design, UI/UX & Modelagem**
+**Design, UI/UX & Acessibilidade**
 
+![Acessibilidade WCAG](https://img.shields.io/badge/Acessibilidade-WCAG_2.1-3A506B?style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-3A506B?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Astah UML](https://img.shields.io/badge/Astah_UML-3A506B?style=flat-square)
-![Miro](https://img.shields.io/badge/Miro-3A506B?style=flat-square&logo=miro&logoColor=white)
 ![BPMN](https://img.shields.io/badge/BPMN-3A506B?style=flat-square)
 
 **Banco de Dados, Versionamento & Deploy**
@@ -87,6 +87,13 @@ Na modelagem de sistemas e arquitetura de interfaces, utilizo **Astah (UML)**, *
 </tr>
 
 <tr>
+<td><b>Segurança Digital para Idosos</b></td>
+<td>Plataforma educativa com design inclusivo, alto contraste e linguagem adaptada para inclusão digital da terceira idade.</td>
+<td><sub>HTML5 · CSS3 · UI/UX · WCAG</sub></td>
+<td><a href="https://github.com/emersonandrade113-beep/Site-Educativo-Seguranca-Digital-Idosos">Repositório</a> · <a href="https://segurancadigitalidosos.netlify.app/">Deploy</a></td>
+</tr>
+
+<tr>
 <td><b>Escape Room ARGOS-7</b></td>
 <td>Simulador textual interativo com engenharia de prompt, controle de estado e mecanismos anti-jailbreak.</td>
 <td><sub>Prompt Eng. · LLM · Node.js</sub></td>
@@ -94,17 +101,31 @@ Na modelagem de sistemas e arquitetura de interfaces, utilizo **Astah (UML)**, *
 </tr>
 
 <tr>
-<td><b>Jogo da Velha Invencível</b></td>
-<td>IA imbatível com o algoritmo Minimax, capaz de antecipar todas as jogadas do adversário.</td>
-<td><sub>JavaScript · HTML5 · CSS3</sub></td>
-<td><a href="https://github.com/emersonandrade113-beep/Jogo-da-Velha-Invenc-vel/tree/main">Repositório</a></td>
+<td><b>LyricAI — Gerador de Letras</b></td>
+<td>Assistente de composição musical interativo que gera e refina letras completas por seções usando LLM.</td>
+<td><sub>React · JavaScript · Claude API</sub></td>
+<td><a href="https://github.com/emersonandrade113-beep/LyricAI-Gerador-de-Letras">Repositório</a></td>
 </tr>
 
 <tr>
-<td><b>LyricAI — Gerador de Letras</b></td>
-<td>Assistente de composição musical interativo que gera e refina letras completas por seções.</td>
-<td><sub>React · JavaScript · Claude API</sub></td>
-<td><a href="https://github.com/emersonandrade113-beep/LyricAI-Gerador-de-Letras/tree/main">Repositório</a></td>
+<td><b>Técnicas de Prompting para Código</b></td>
+<td>Pesquisa e documentação de métodos de IA generativa (Few-shot, Chain-of-Thought) focados em geração de código.</td>
+<td><sub>Engenharia de Prompt · IA</sub></td>
+<td><a href="https://github.com/emersonandrade113-beep/Pesquisa-Tecnicas-Prompting-IA-Geracao-Codigo">Repositório</a></td>
+</tr>
+
+<tr>
+<td><b>Análise de Acessibilidade Web</b></td>
+<td>Estudo prático e avaliação de diretrizes de acessibilidade e usabilidade aplicadas a diferentes perfis de usuários.</td>
+<td><sub>Acessibilidade · UI/UX · WCAG</sub></td>
+<td><a href="https://github.com/emersonandrade113-beep/Analise-Acessibilidade-Interface-Perfis-Diversos">Repositório</a></td>
+</tr>
+
+<tr>
+<td><b>Jogo da Velha Invencível</b></td>
+<td>IA imbatível construída com o algoritmo Minimax, capaz de antecipar todas as jogadas do adversário.</td>
+<td><sub>JavaScript · HTML5 · CSS3</sub></td>
+<td><a href="https://github.com/emersonandrade113-beep/Jogo-da-Velha-Invenc-vel">Repositório</a></td>
 </tr>
 
 <tr>
@@ -115,24 +136,10 @@ Na modelagem de sistemas e arquitetura de interfaces, utilizo **Astah (UML)**, *
 </tr>
 
 <tr>
-<td><b>Modelagem de Processo Clínico</b></td>
-<td>Mapeamento e arquitetura de processos de atendimento e coleta laboratorial, organizados em raias de responsabilidade.</td>
-<td><sub>BPMN · Miro · UML</sub></td>
-<td><a href="https://miro.com/app/board/uXjVGsra4kY=/?focusWidget=3458764664988380921">Diagrama</a></td>
-</tr>
-
-<tr>
 <td><b>Landing Page de Saúde Mental</b></td>
-<td>Interface moderna e responsiva com foco em UI/UX, layout acolhedor e navegação intuitiva.</td>
+<td>Interface moderna e responsiva focada em layout acolhedor, usabilidade e navegação intuitiva.</td>
 <td><sub>HTML5 · CSS3 · UI/UX</sub></td>
-<td><a href="https://github.com/emersonandrade113-beep/Landing-Page-de-um-App-de-Sa-de-Mental/tree/main">Repositório</a> · <a href="https://fluffy-kleicha-274a65.netlify.app/">Deploy</a></td>
-</tr>
-
-<tr>
-<td><b>Concessionária Premium</b></td>
-<td>Prototipação e design de interface (UI/UX) desenvolvidos no Figma.</td>
-<td><sub>Figma · Wireframes</sub></td>
-<td><a href="https://www.figma.com/make/KQumN0pYsm6XLRR9wa56kQ/Concession%C3%A1ria-Premium?p=f&t=E6RR7YSYjVXONj6p-0">Protótipo</a></td>
+<td><a href="https://github.com/emersonandrade113-beep/Landing-Page-de-um-App-de-Sa-de-Mental">Repositório</a> · <a href="https://fluffy-kleicha-274a65.netlify.app/">Deploy</a></td>
 </tr>
 
 </table>
