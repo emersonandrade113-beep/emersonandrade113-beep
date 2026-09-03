@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=778DA9&center=true&vCenter=true&width=520&lines=Python+%C2%B7+React+%C2%B7+SQL+%C2%B7+UML;Engenharia+de+Prompt+%26+APIs+de+LLM;Foco+em+resolu%C3%A7%C3%A3o+de+problemas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=778DA9&center=true&vCenter=true&width=520&lines=Python+%C2%B7+React+%C2%B7+SQL+%C2%B7+UML;Engenharia+de+Prompt+%26+APIs+de+LLM;UI%2FUX+Design+%C2%B7+Figma+%C2%B7+Acessibilidade" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,18 +19,19 @@
 
 ## Sobre mim
 
-Estudante do **2º semestre de Ciência da Computação**, com foco no desenvolvimento de soluções de software e na aplicação prática de lógica de programação, estruturas de dados e modelagem de sistemas.
+Estudante do **2º semestre de Ciência da Computação**, focado no desenvolvimento de soluções de software e na aplicação prática de lógica de programação, estruturas de dados, modelagem de sistemas e UI/UX design.
 
-Tenho me dedicado ao desenvolvimento web com **React** e **JavaScript**, à construção de scripts e algoritmos em **Python**, e à estruturação de dados com **SQL**. Também venho explorando **Engenharia de Prompt** e integração com **APIs de LLM**, unindo raciocínio lógico a interfaces pensadas para IA.
+Tenho me dedicado ao desenvolvimento web com **React**, **JavaScript**, **HTML5** e **CSS3**, à resolução de problemas e criação de scripts em **Python**, e à modelagem e estruturação de dados com **SQL**. Além disso, domino técnicas de **Engenharia de Prompt** (Zero-shot, Few-shot, Role Prompting, delimitadores) e integração com **APIs de LLM**, unindo raciocínio lógico a interfaces otimizadas para Inteligência Artificial.
 
-Na modelagem de sistemas e processos, utilizo ferramentas como **Astah (UML)**, **BPMN** e **Figma** para traduzir requisitos em soluções claras e bem documentadas.
+Na modelagem de sistemas e arquitetura de interfaces, utilizo **Astah (UML)**, **BPMN**, **Miro** e **Figma** para prototipar wireframes, desenhar fluxos de navegação e transformar requisitos complexos em projetos acessíveis e bem estruturados.
 
 <br/>
 
 | | |
 |---|---|
 | 🎓 **Formação** | Ciência da Computação — 2º semestre |
-| 💼 **Foco atual** | Desenvolvimento Web, Python e Engenharia de Prompt |
+| 💼 **Foco atual** | Desenvolvimento Web, Engenharia de Prompt, UI/UX e Python |
+| 🌟 **Diferenciais** | Proatividade, Autonomia, Adaptabilidade, Atenção aos detalhes e Curiosidade |
 | 🌎 **Localização** | Brasil |
 | 📫 **Contato** | emerson.andrade113@gmail.com |
 
@@ -38,32 +39,35 @@ Na modelagem de sistemas e processos, utilizo ferramentas como **Astah (UML)**, 
 
 ---
 
-## Stack técnica
+## Stack técnica & Competências
 
 <div align="center">
 
 **Linguagens & Desenvolvimento Web**
 
+![Python](https://img.shields.io/badge/Python-3A506B?style=flat-square&logo=python&logoColor=3776AB)
 ![React](https://img.shields.io/badge/React-3A506B?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3A506B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3A506B?style=flat-square&logo=python&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-3A506B?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-3A506B?style=flat-square&logo=css3&logoColor=1572B6)
 ![Node.js](https://img.shields.io/badge/Node.js-3A506B?style=flat-square&logo=nodedotjs&logoColor=339933)
 
-**Banco de Dados**
+**IA Generativa & Engenharia de Prompt**
 
-![SQL](https://img.shields.io/badge/SQL-3A506B?style=flat-square&logo=postgresql&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Engenharia_de_Prompt-3A506B?style=flat-square&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-3A506B?style=flat-square&logo=google&logoColor=4285F4)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-3A506B?style=flat-square&logo=openai&logoColor=74AA9C)
 
-**Design & Modelagem**
+**Design, UI/UX & Modelagem**
 
 ![Figma](https://img.shields.io/badge/Figma-3A506B?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Astah UML](https://img.shields.io/badge/Astah_UML-3A506B?style=flat-square)
 ![Miro](https://img.shields.io/badge/Miro-3A506B?style=flat-square&logo=miro&logoColor=white)
 ![BPMN](https://img.shields.io/badge/BPMN-3A506B?style=flat-square)
 
-**Versionamento & Deploy**
+**Banco de Dados, Versionamento & Deploy**
 
+![SQL](https://img.shields.io/badge/SQL-3A506B?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-3A506B?style=flat-square&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/GitHub-3A506B?style=flat-square&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-3A506B?style=flat-square&logo=netlify&logoColor=00C7B7)
@@ -105,7 +109,7 @@ Na modelagem de sistemas e processos, utilizo ferramentas como **Astah (UML)**, 
 
 <tr>
 <td><b>Cálculos Matemáticos em Python</b></td>
-<td>Coleção de scripts e algoritmos em Python focados em resolução de problemas e raciocínio lógico.</td>
+<td>Coleção de scripts e algoritmos em Python focados em resolução de problemas, estruturas de dados e raciocínio lógico.</td>
 <td><sub>Python</sub></td>
 <td><a href="https://github.com/emersonandrade113-beep/C-lculos-Matem-ticos-em-Python">Repositório</a></td>
 </tr>
@@ -127,7 +131,7 @@ Na modelagem de sistemas e processos, utilizo ferramentas como **Astah (UML)**, 
 <tr>
 <td><b>Concessionária Premium</b></td>
 <td>Prototipação e design de interface (UI/UX) desenvolvidos no Figma.</td>
-<td><sub>Figma</sub></td>
+<td><sub>Figma · Wireframes</sub></td>
 <td><a href="https://www.figma.com/make/KQumN0pYsm6XLRR9wa56kQ/Concession%C3%A1ria-Premium?p=f&t=E6RR7YSYjVXONj6p-0">Protótipo</a></td>
 </tr>
 
