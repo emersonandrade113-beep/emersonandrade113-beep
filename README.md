@@ -30,9 +30,9 @@ Na área de design e arquitetura, realizo pesquisas de **Acessibilidade Web (WCA
 | | |
 |---|---|
 | 🎓 **Formação** | Ciência da Computação — 2º semestre |
-| 💼 **Foco atual** | Desenvolvimento Web, Engenharia de Prompt, UI/UX e Acessibilidade |
+| 💼 **Foco atual** |Cibersegurança , Engenharia de Prompt, UI/UX, Acessibilidade e Desenvolvimento Web |
 | 🌟 **Diferenciais** | Pesquisa aplicada em IA, Proatividade, Adaptabilidade e Foco em Acessibilidade |
-| 🌎 **Localização** | Brasil |
+| 🌎 **Localização** | São Paulo - SP, Brasil |
 | 📫 **Contato** | emerson.andrade113@gmail.com |
 
 <br/>
