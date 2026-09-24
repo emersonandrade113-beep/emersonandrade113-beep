@@ -19,11 +19,11 @@
 
 ## Sobre mim
 
-Estudante do **2º semestre de Ciência da Computação**, focado no desenvolvimento de soluções de software e na aplicação prática de lógica de programação, estruturas de dados, modelagem de sistemas e UI/UX design centrado no usuário.
+Estudante do **2º semestre de Ciência da Computação**, com forte interesse e direcionamento de carreira para a área de **Cibersegurança**. Busco unir uma base sólida em desenvolvimento de software, lógica de programação e arquitetura de sistemas à proteção de dados, segurança defensiva e análise de vulnerabilidades.
 
-Tenho me dedicado ao desenvolvimento web com **React**, **JavaScript**, **HTML5** e **CSS3**, à resolução de problemas e criação de scripts em **Python**, e à modelagem de dados com **SQL**. Além disso, pesquiso e aplico técnicas avançadas de **Engenharia de Prompt** (*Zero-shot, Few-shot, Role Prompting, delimitadores*) e integração com **APIs de LLM**, conectando raciocínio lógico a interfaces eficientes para Inteligência Artificial.
+Tenho me dedicado ao desenvolvimento web com **React**, **JavaScript**, **HTML5** e **CSS3**, à resolução de problemas e criação de scripts em **Python**, e à modelagem de dados com **SQL**. Além disso, pesquiso e aplico técnicas avançadas de **Engenharia de Prompt** (*Zero-shot, Few-shot, Role Prompting, delimitadores*), compreendendo a segurança de modelos e integração com **APIs de LLM**.
 
-Na área de design e arquitetura, realizo pesquisas de **Acessibilidade Web (WCAG)** para perfis diversos e utilizo **Astah (UML)**, **BPMN**, **Miro** e **Figma** para desenhar wireframes e modelar processos.
+Na área de design e arquitetura, realizo pesquisas de **Acessibilidade Web (WCAG)** e utilizo **Astah (UML)**, **BPMN**, **Miro** e **Figma** para modelar processos com foco em robustez e conformidade.
 
 <br/>
 
@@ -84,13 +84,6 @@ Na área de design e arquitetura, realizo pesquisas de **Acessibilidade Web (WCA
 <th align="left" width="42%">Descrição</th>
 <th align="left" width="18%">Stack</th>
 <th align="left" width="12%">Link</th>
-</tr>
-
-<tr>
-<td><b>Segurança Digital para Idosos</b></td>
-<td>Plataforma educativa com design inclusivo, alto contraste e linguagem adaptada para inclusão digital da terceira idade.</td>
-<td><sub>HTML5 · CSS3 · UI/UX · WCAG</sub></td>
-<td><a href="https://github.com/emersonandrade113-beep/Site-Educativo-Seguranca-Digital-Idosos">Repositório</a> · <a href="https://segurancadigitalidosos.netlify.app/">Deploy</a></td>
 </tr>
 
 <tr>
